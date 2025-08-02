@@ -15,8 +15,8 @@ from selenium.webdriver.chrome.options import Options
 from rich.console import Console
 
 # === Config ===
-BOT_TOKEN = "7107201030:AAF7LMtxvtpQ-IV3OqFxZ3ouUVsWx9Q-rnQ"
-CHAT_ID = "7249106493"
+BOT_TOKEN = "7749191881:AAH1JDNTbMr2JwTgnVzdo-W24taN2r6Pw0I"
+CHAT_ID = "-1002398411637"
 console = Console()
 lock = threading.Lock()
 
